@@ -1,0 +1,26 @@
+{
+  "topic": "What is the nature of creativity?",
+  "sources": [
+    {
+      "type": "file",
+      "path": "examples/sources/creativity_article1.txt",
+      "author": "Mihaly Csikszentmihalyi",
+      "title": "Flow and Creativity"
+    },
+    {
+      "type": "file",
+      "path": "examples/sources/creativity_article2.txt",
+      "author": "Edward de Bono",
+      "title": "Lateral Thinking"
+    },
+    {
+      "type": "url",
+      "url": "https://example.com/creativity-research",
+      "author": "Teresa Amabile",
+      "title": "The Social Psychology of Creativity"
+    }
+  ],
+  "output_format": "blog",
+  "provider": "claude",
+  "model": "claude-sonnet-4-20250514"
+}

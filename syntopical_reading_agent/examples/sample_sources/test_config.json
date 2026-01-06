@@ -1,0 +1,24 @@
+{
+  "topic": "What does the future hold for artificial intelligence?",
+  "sources": [
+    {
+      "type": "file",
+      "path": "syntopical_reading_agent/examples/sample_sources/ai_future_article1.txt",
+      "author": "Dr. Sarah Chen",
+      "title": "The Optimistic View of AI's Future"
+    },
+    {
+      "type": "file",
+      "path": "syntopical_reading_agent/examples/sample_sources/ai_future_article2.txt",
+      "author": "Professor Marcus Thompson",
+      "title": "The Critical Challenges of AI Development"
+    },
+    {
+      "type": "file",
+      "path": "syntopical_reading_agent/examples/sample_sources/ai_future_article3.txt",
+      "author": "Dr. Amara Okafor",
+      "title": "AI and Human Flourishing: A Middle Path"
+    }
+  ],
+  "output_format": "blog"
+}
